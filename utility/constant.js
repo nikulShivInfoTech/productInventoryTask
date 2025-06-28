@@ -56,7 +56,6 @@ const authMessages = {
   INVALID_TOKEN: "Invalid token",
 };
 
-// Export all of them
 module.exports = {
   Messages,
   Roles,
